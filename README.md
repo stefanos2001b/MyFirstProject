@@ -12,6 +12,12 @@
 - index.html
 - README.md
 
+  ## Τεχνολογίες
+
+- HTML
+- Git
+- GitHub
+
 ## Δημιουργός
 
 STEFANOS KOUTSOUKIS
